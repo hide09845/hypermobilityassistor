@@ -54,6 +54,7 @@ Finally, you will want to attach your padding to the upper and lower cuff. You c
 
 # Disclaimers
 
+- The HAND is built for the right hand. You will need to mirror it for usage on the left hand.
 - The HAND was designed by a team of two, including myself. I only take partial credit for the design.
 - The HAND is a prototype that was designed around my wrist and hand. It may not fit perfectly on all bodies. 
 - Do not wear the HAND if you are experiencing any pain as a result of wearing it. 
