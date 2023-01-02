@@ -58,5 +58,5 @@ Finally, you will want to attach your padding to the upper and lower cuff. You c
 - The HAND was designed by a team of two, including myself. I only take partial credit for the design.
 - The HAND is a prototype that was designed around my wrist and hand. It may not fit perfectly on all bodies. 
 - Do not wear the HAND if you are experiencing any pain as a result of wearing it. 
-- If the HAND results in any injury, contact me (mayamainvert@proton.me) so I can place a disclaimer and/or update the STL, or become a contributor and do the same. If it cuts the skin, disinfect the wound then file/sand down the area that resulted in a cut. It shouldn't be able to cut you, but some people have more sensitive skin than me and I don't exactly have a broad sample set.
+- If the HAND results in any injury, contact me (mayamainvert@proton.me) so I can place a disclaimer and/or update the STL, or make a pull request. If it cuts the skin, disinfect the wound then file/sand down the area that resulted in a cut. It shouldn't be able to cut you, but some people have more sensitive skin than me and I don't exactly have a broad sample set.
 - Contact me (mayamainvert@proton.me) if anything is unclear
