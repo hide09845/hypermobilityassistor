@@ -9,7 +9,7 @@ The H.A.N.D. is composed of four primary parts- the upper plate, the lower plate
 They will be referred to as such for the remainder of this document.
 
 # What does it excel at?
-The H.A.N.D. mechanically limits the rotation of your wrist both vertically and horizontally, reducing your wrist's mobility to approximately that of the average person. This is particularly useful for fine motor activities such as writing or drawing, as well as any activity that requires a large amount of wrist movement. This offloads much of the muscular usage required to keep your joints from overextending to the device, reducing the pain and fatigue caused by fine motor activities.
+The H.A.N.D. mechanically limits the rotation of your wrist vertically and horizontally, meaning your wrist's mobility will approximately match that of the average person. This is particularly useful for fine motor activities such as writing or drawing, as well as any activity that requires a large amount of wrist movement. This offloads much of the muscular usage required to keep your joints from overextending to the device, reducing the pain and fatigue caused by fine motor activities. 
 
 The H.A.N.D. will help reduce pain from typing. However. it limits horizontal movement of the wrist to the wiggle room of the device (and the lower plate may interact with the keyboard unless you are typing with your hands raised), which can make typing awkward in some positions.
 
