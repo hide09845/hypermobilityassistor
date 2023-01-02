@@ -11,7 +11,7 @@ They will be referred to as such for the remainder of this document.
 # What does it excel at?
 The H.A.N.D. mechanically limits the rotation of your wrist vertically and horizontally, meaning your wrist's mobility will approximately match that of the average person. This is built for fine motor activities such as writing or drawing, as well as any activity that requires a large amount of wrist movement. This offloads much of the muscular usage required to keep your joints from overextending to the device, reducing the pain and fatigue caused by repetitive activities. 
 
-The H.A.N.D. will help reduce pain from typing. However. it limits horizontal movement of the wrist to the wiggle room of the device (and the lower plate may interact with the keyboard unless you are typing with your hands raised), which can make typing awkward in some positions.
+The H.A.N.D. **will** help reduce pain from typing. However, it limits horizontal movement of the wrist to the wiggle room of the device (and the lower plate may interact with the keyboard unless you are typing with your hands raised), which can make typing awkward in some positions.
 
 # Warnings
 Do not eat while wearing the H.A.N.D.. Like all other 3d-printed goods, pieces of food and dirt can get stuck in the grooves of the print. The H.A.N.D. may alleviate pain while eating with silverware, but it will pose an actual danger to your health. 
