@@ -16,7 +16,7 @@ The HAND **will** help reduce pain from typing. However, it limits horizontal mo
 # Warnings
 Do not eat while wearing the HAND. Like most other 3d-printed goods, pieces of food and dirt can get stuck in the grooves of the print. The HAND may alleviate pain while eating with silverware, but it will pose an actual danger to your health. 
 
-Do not lick the HAND or place your mouth on it. Again, dirt and bacteria WILL get stuck in the grooves of the print, and you WILL be at risk of illness.![this](https://user-images.githubusercontent.com/91681608/210263186-c6d3256c-a637-492e-9ca0-15fb2e4db4a6.jpg)
+Do not lick the HAND or place your mouth on it. Again, dirt and bacteria WILL get stuck in the grooves of the print, and you WILL be at risk of illness.
 
 
 # How to scale the HAND in your software
