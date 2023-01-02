@@ -1,5 +1,5 @@
 # The H.A.N.D.
-The H.A.N.D. (A.K.A. the Hypermobility Assistance Device) is a combination wrist and knuckle brace that intends to provide a free, open-source, and 3d-printable alternative to the pricey and/or usually under/overeffective wrist braces on the market, while also bracing the rarely-braced knuckle.
+The H.A.N.D. (A.K.A. the Hypermobility Assistance Device) is a combination wrist and knuckle brace that intends to provide a free, open-source, and 3d-printable alternative to the pricey and/or usually under/overeffective wrist braces on the market, while also bracing the rarely-braced knuckle joint.
 
 # What is the H.A.N.D. made up of?
 The H.A.N.D. is composed of four primary parts- the upper plate, the lower plate, the upper cuff, and the lower cuff. 
